@@ -1,0 +1,35 @@
+[
+  {
+    "city": "Челябинск",
+    "airlineFlightNumber": ["SU 1312", "KL 2896"],
+    "type": "arrival"
+  },
+  {
+    "city": "Баку",
+    "airlineFlightNumber": ["AF 4424"],
+    "type": "arrival",
+    "status": "delay"
+  },
+  {
+    "city": "Сочи",
+    "airlineFlightNumber": ["JU 9098"],
+    "type": "departure"
+  },
+  {
+    "city": "Вена",
+    "airlineFlightNumber": ["SU 1124", "AF 8146"],
+    "type": "departure",
+    "status": "delay"
+  },
+  {
+    "city": "Калининград",
+    "airlineFlightNumber": ["ZU 7215"],
+    "type": "arrival",
+    "status": "delay"
+  },
+  {
+    "city": "Анталия",
+    "airlineFlightNumber": ["DL 2144"],
+    "type": "arrival"
+  }
+]
